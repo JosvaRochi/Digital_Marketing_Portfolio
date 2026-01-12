@@ -33,4 +33,5 @@ This project focuses on planning and designing an email marketing campaign to en
 - Created a structured email campaign plan  
 - Improved understanding of email funnel and audience segmentation  
 
-## 📎 Project File
+##  Project File
+https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Email%20marketing%20Project%20file
