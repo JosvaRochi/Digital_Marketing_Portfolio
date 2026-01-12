@@ -35,7 +35,7 @@ This project focuses on planning and structuring a Facebook Ads campaign to incr
 - Developed a structured Facebook Ads campaign plan  
 - Improved understanding of audience targeting and ad strategy  
 
-## 📎 Project File
+##  Project File
 # Facebook Ads Campaign Planning Project  
 *Brand:* Sky Asia Tours  
 
@@ -73,5 +73,5 @@ This project focuses on planning and structuring a Facebook Ads campaign to incr
 - Developed a structured Facebook Ads campaign plan  
 - Improved understanding of audience targeting and ad strategy  
 
-## 📎 Project File
+##  Project File
 https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Facebook%20%20Ads.%20file
