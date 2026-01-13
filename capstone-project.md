@@ -37,4 +37,5 @@ This capstone project involves creating a complete digital marketing strategy fo
 - Developed a complete digital marketing blueprint  
 - Demonstrated multi-channel marketing understanding  
 
-## 📎 Project File
+##  Project File
+https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Capstone-Project-file
