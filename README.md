@@ -20,7 +20,7 @@ Passionate digital marketing fresher with hands-on academic and practice project
 - Search Engine Marketing (Google Ads) Campaign – Sky Asia Tours(https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/SEM%20Project%20.md)
 - Facebook Ads Campaign Planning – Sky Asia Tours (https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/facebook-ads-project.md)
 - Email Marketing Campaign Strategy – Sky Asia Tours (https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Email%20marketing%20Project%20.md)
-- Affiliate Marketing Strategy – Amazon Associates
+- Affiliate Marketing Strategy – Amazon Associates (https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Affiliate-marketing-project.md)
 - Google Analytics 4 Setup & Analysis
 - Video Marketing & YouTube Optimization Strategy
 - Capstone Project – Complete Digital Marketing Plan
