@@ -30,5 +30,5 @@ This project focuses on creating and structuring a Google Ads (Search) campaign 
 - Created ads aligned with user intent and keywords  
 
 ##  Project File
-https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/sem%20assignment.docx
+https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/SEM%20project%20file
 
