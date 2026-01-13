@@ -33,4 +33,5 @@ This project focuses on planning a video marketing strategy and optimizing YouTu
 - Developed a structured video marketing plan  
 - Improved understanding of YouTube optimization techniques  
 
-## 📎 Project File
+##  Project File
+https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Video%20project%20file
