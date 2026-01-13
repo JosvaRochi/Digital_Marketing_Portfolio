@@ -33,3 +33,4 @@ This project focuses on setting up Google Analytics 4 (GA4) and analyzing websit
 - Improved ability to analyze and interpret website data  
 
 ## Project File
+https://github.com/JosvaRochi/Digital_Marketing_portfolio/blob/main/Google%20%20%20%20%20%20%20%20%20Analytics%20%20Assignment.docx
